@@ -1,0 +1,7 @@
+{"list":[
+    {"value": "CS2030S", "entries":[{"professor":"Henry CHIA Wai Kit", "semester": "AY21/22 SEM1", "language": ["Java"]}, {"professor":"OOI Wei Tsang, Boyd ANDERSON", "semester": "AY21/22 SEM2", "language": ["Java"]}], "language": ["Java"]}, 
+    {"value": "CS2040S", "entries":[{"professor":"CHONG Ket Fah", "semester": "AY21/22 SEM1", "language": ["Java"]}, {"professor":"Seth Lewis GILBERT", "semester": "AY21/22 SEM2", "language": ["Java"]}], "language": ["Java"]}, 
+    {"value": "CS2100", "entries":[{"professor":"Aaron TAN Tuck Choy, Colin TAN Keng Yan, NATARAJAN Prabhu", "semester": "AY21/22 SEM1", "language": ["Assembly", "C"]}, {"professor":"Aaron TAN Tuck Choy, PRABAWA Adi Yoga Sidi", "semester": "AY21/22 SEM2", "language": ["Assembly", "C"]}], "language": ["Assembly", "C"]}, 
+    {"value": "CS2103T", "entries":[{"professor":"Damith Chatura RAJAPAKSE", "semester": "AY21/22 SEM1", "language": ["Java"]}, {"professor":"Damith Chatura RAJAPAKSE", "semester": "AY21/22 SEM2", "language": ["Java"]}], "language": ["Java"]}, 
+    {"value": "CS2105", "entries":[{"professor":"ZHOU Lifeng, Roger ZIMMERMANN, Jithin VACHERY", "semester": "AY21/22 SEM1", "language": ["Java", "Python", "C"]}, {"professor":"Richard MA Tianbai, Roger ZIMMERMANN, Jithin VACHERY", "semester": "AY21/22 SEM2", "language": ["Java", "Python", "C"]}], "language": ["Java", "Python", "C"]}
+    ]}
