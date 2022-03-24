@@ -326,7 +326,7 @@ function App() {
                       {row.semester}
                     </TableCell>
                     <TableCell align="left">{row.professor}</TableCell>
-                    <TableCell align="left">{row.language}</TableCell>
+                    <TableCell align="left">{row.language[0]}, {row.language[1]}, {row.language[2]}</TableCell>
                   </TableRow>
                 ))}
               </TableBody>
